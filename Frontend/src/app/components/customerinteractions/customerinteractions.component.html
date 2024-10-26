@@ -1,0 +1,50 @@
+<app-navbar></app-navbar>
+<div class="customer-interaction-container">
+  <h2>Search Customer Interactions By id</h2>
+  <div class="interaction-search">
+    <input type="number" [(ngModel)]="id" placeholder="Enter Customer ID" class="search-input" />
+    <button (click)="searchInteractions()" class="search-btn">Search</button>
+  </div>
+
+  <div *ngIf="customer" class="customer-details">
+    <p><strong>Name:</strong> {{ customer.firstname }} {{ customer.lastname }}</p>
+    <p><strong>Email:</strong> {{ customer.email }}</p>
+    <p><strong>Phone:</strong> {{ customer.phoneNumber }}</p>
+  </div>
+
+  <div class="interaction-list" *ngIf="customerInteractions.length > 0">
+    <table>
+      <thead>
+        <tr>
+          <th>Customer ID</th>
+          <th>First Name</th>
+          <th>Last Name</th>
+          <th>Interaction Type</th>
+          <th>Interaction Description</th>
+          <th>Details</th>
+          <th>Date</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr *ngFor="let interaction of customerInteractions" @fadeInAnimation>
+          <td>{{ customer.id }}</td>
+          <td>{{ customer.firstname }}</td>
+          <td>{{ customer.lastname }}</td>
+          <td>{{ interaction.type }}</td>
+          <td>{{ interaction.description }}</td>
+          <td>{{ interaction.details }}</td>
+          <td>{{ interaction.interactionDate }}</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+
+  <div *ngIf="customerInteractions.length === 0" class="no-interactions" @fadeInAnimation>
+    <p>No interactions found for this customer.</p>
+  </div>
+ 
+
+</div>
+<footer class="footer">
+  <p>&copy; 2024 Customer Relationship Management System.</p>
+</footer>

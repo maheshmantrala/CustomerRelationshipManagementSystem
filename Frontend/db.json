@@ -1,0 +1,970 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "username": "johnDoe",
+      "password": "password123",
+      "role": "ADMIN"
+    },
+    {
+      "id": "2",
+      "username": "janeDoe",
+      "password": "password123",
+      "role": "CUSTOMER"
+    },
+    {
+      "id": "4dd0",
+      "username": "johnDoe",
+      "password": "password123",
+      "role": "ADMIN"
+    },
+    {
+      "id": "ee18",
+      "username": "johnDoe",
+      "password": "password123",
+      "role": "ADMIN"
+    },
+    {
+      "id": "d5e4",
+      "username": "johnDoe",
+      "password": "password123",
+      "role": "ADMIN"
+    },
+    {
+      "id": "e1df",
+      "username": "johnDoe",
+      "password": "password123",
+      "role": "ADMIN"
+    },
+    {
+      "id": "f3d6",
+      "username": "johnDoe",
+      "password": "password123",
+      "role": "ADMIN"
+    },
+    {
+      "id": "78cf",
+      "username": "johnDoe",
+      "password": "password123",
+      "role": "ADMIN"
+    },
+    {
+      "id": "05ab",
+      "username": "janeDoe",
+      "password": "password123",
+      "role": "CUSTOMER"
+    },
+    {
+      "id": "3b84",
+      "username": "johnDoe",
+      "password": "password123",
+      "role": "ADMIN"
+    },
+    {
+      "id": "2a84",
+      "username": "johnDoe",
+      "password": "password123",
+      "role": "ADMIN"
+    },
+    {
+      "id": "0676",
+      "username": "janeDoe",
+      "password": "password123",
+      "role": "CUSTOMER"
+    },
+    {
+      "id": "4a12",
+      "username": "johnDoe",
+      "password": "password123",
+      "role": "CUSTOMER"
+    },
+    {
+      "id": "e392",
+      "username": "johnDoe",
+      "password": "password123",
+      "role": "CUSTOMER"
+    },
+    {
+      "id": "3e5a",
+      "username": "johnDoe",
+      "password": "password123",
+      "role": "CUSTOMER"
+    },
+    {
+      "id": "5fb8",
+      "username": "johnDoe",
+      "password": "password123",
+      "role": "ADMIN"
+    },
+    {
+      "id": "cddd",
+      "username": "Govinda",
+      "password": "govi@123",
+      "role": "ADMIN"
+    },
+    {
+      "id": "c614",
+      "username": "johnDoe",
+      "password": "password123",
+      "role": "ADMIN"
+    },
+    {
+      "id": "e6ec",
+      "username": "johnDoe",
+      "password": "password123",
+      "role": "ADMIN"
+    },
+    {
+      "id": "eeed",
+      "username": "neeraj",
+      "password": "neeraj@123",
+      "role": "ADMIN"
+    },
+    {
+      "id": "c28e",
+      "username": "johnDoe",
+      "password": "password123",
+      "role": "ADMIN"
+    },
+    {
+      "id": "42e0",
+      "username": "johnDoe",
+      "password": "password123",
+      "role": "CUSTOMER"
+    },
+    {
+      "id": "7555",
+      "username": "johnDoe",
+      "password": "password123",
+      "role": "CUSTOMER"
+    },
+    {
+      "id": "6b43",
+      "username": "johnDoe",
+      "password": "password@123",
+      "role": "ADMIN"
+    },
+    {
+      "id": "a483",
+      "username": "johnDoe",
+      "password": "password123",
+      "role": "ADMIN"
+    },
+    {
+      "id": "aca5",
+      "username": "johnDoe",
+      "password": "password123",
+      "role": "CUSTOMER"
+    },
+    {
+      "id": "c90f",
+      "username": "johnDoe",
+      "password": "password123",
+      "role": "ADMIN"
+    },
+    {
+      "id": "c758",
+      "username": "johnDoe",
+      "password": "password123",
+      "role": "ADMIN"
+    },
+    {
+      "id": "93b9",
+      "username": "johnDoe",
+      "password": "password123",
+      "role": "ADMIN"
+    },
+    {
+      "id": "85de",
+      "username": "johnDoe",
+      "password": "password123",
+      "role": "ADMIN"
+    },
+    {
+      "id": "98d7",
+      "username": "johnDoe",
+      "password": "password123",
+      "role": "ADMIN"
+    },
+    {
+      "id": "556c",
+      "username": "pavan",
+      "password": "pavan@123",
+      "role": "CUSTOMER"
+    },
+    {
+      "id": "f1f3",
+      "username": "johnDoe",
+      "password": "password123",
+      "role": "ADMIN"
+    },
+    {
+      "id": "3a8d",
+      "username": "johnDoe",
+      "password": "password123",
+      "role": "ADMIN"
+    },
+    {
+      "id": "37dd",
+      "username": "johnDoe",
+      "password": "password123",
+      "role": "CUSTOMER"
+    },
+    {
+      "id": "e16e",
+      "username": "johnDoe",
+      "password": "password123",
+      "role": "ADMIN"
+    },
+    {
+      "id": "b536",
+      "username": "johnDoe",
+      "password": "password123",
+      "role": "CUSTOMER"
+    },
+    {
+      "id": "81a6",
+      "username": "johnDoe",
+      "password": "password123",
+      "role": "ADMIN"
+    },
+    {
+      "id": "79cc",
+      "username": "pavankumar",
+      "password": "pavan@1234",
+      "role": "CUSTOMER"
+    },
+    {
+      "id": "516c",
+      "username": "johnDoe",
+      "password": "password123",
+      "role": "ADMIN"
+    },
+    {
+      "id": "42fc",
+      "username": "johnDoe",
+      "password": "password123",
+      "role": "ADMIN"
+    },
+    {
+      "id": "1bfe",
+      "username": "Govinda",
+      "password": "password123",
+      "role": "ADMIN"
+    },
+    {
+      "id": "a4b6",
+      "username": "johnDoe",
+      "password": "password123",
+      "role": "ADMIN"
+    },
+    {
+      "id": "350a",
+      "username": "johnDoe",
+      "password": "password123",
+      "role": "CUSTOMER"
+    },
+    {
+      "id": "d24f",
+      "username": "johnDoe",
+      "password": "password123",
+      "role": "ADMIN"
+    },
+    {
+      "id": "8968",
+      "username": "johnDoe",
+      "password": "password123",
+      "role": "CUSTOMER"
+    },
+    {
+      "id": "2357",
+      "username": "johnDoe",
+      "password": "password123",
+      "role": "ADMIN"
+    },
+    {
+      "id": "e793",
+      "username": "johnDoe",
+      "password": "password123",
+      "role": "CUSTOMER"
+    },
+    {
+      "id": "cc71",
+      "username": "johnDoe",
+      "password": "password123",
+      "role": "ADMIN"
+    },
+    {
+      "id": "2729",
+      "username": "johnDoe",
+      "password": "password123",
+      "role": "CUSTOMER"
+    },
+    {
+      "id": "73f5",
+      "username": "johnDoe",
+      "password": "password123",
+      "role": "ADMIN"
+    },
+    {
+      "id": "f1b6",
+      "username": "johnDoe",
+      "password": "pasword123",
+      "role": "ADMIN"
+    },
+    {
+      "id": "d9f9",
+      "username": "Narayana",
+      "password": "Narayana@123",
+      "role": "CUSTOMER"
+    },
+    {
+      "id": "c899",
+      "username": "johnDoe",
+      "password": "password123",
+      "role": "ADMIN"
+    },
+    {
+      "id": "4998",
+      "username": "johnDoe",
+      "password": "password123",
+      "role": "CUSTOMER"
+    },
+    {
+      "id": "30a0",
+      "username": "johnDoe",
+      "password": "password123",
+      "role": "ADMIN"
+    },
+    {
+      "id": "9209",
+      "username": "johnDoe",
+      "password": "password123",
+      "role": "ADMIN"
+    },
+    {
+      "id": "2a58",
+      "username": "johnDoe",
+      "password": "password123",
+      "role": "ADMIN"
+    },
+    {
+      "id": "1a2e",
+      "username": "johnDoe",
+      "password": "password123",
+      "role": "CUSTOMER"
+    },
+    {
+      "id": "c0e1",
+      "username": "johnDoe",
+      "password": "paasword123",
+      "role": "CUSTOMER"
+    },
+    {
+      "id": "93f9",
+      "username": "johnDoe",
+      "password": "password123",
+      "role": "CUSTOMER"
+    },
+    {
+      "id": "9341",
+      "username": "johnDoe",
+      "password": "password123",
+      "role": "ADMIN"
+    },
+    {
+      "id": "89d4",
+      "username": "pavan",
+      "password": "pavan@123",
+      "role": "ADMIN"
+    },
+    {
+      "id": "fa9e",
+      "username": "johnDoe",
+      "password": "password123",
+      "role": "CUSTOMER"
+    },
+    {
+      "id": "a6cd",
+      "username": "Aditya",
+      "password": "aditya@123",
+      "role": "CUSTOMER"
+    },
+    {
+      "id": "5e10",
+      "username": "johnDoe",
+      "password": "password123",
+      "role": "ADMIN"
+    },
+    {
+      "id": "30a9",
+      "username": "johnDoe",
+      "password": "password123",
+      "role": "ADMIN"
+    },
+    {
+      "id": "7664",
+      "username": "Govinda",
+      "password": "govinda@123",
+      "role": "ADMIN"
+    },
+    {
+      "id": "964c",
+      "username": "johnDoe",
+      "password": "password123",
+      "role": "CUSTOMER"
+    },
+    {
+      "id": "dade",
+      "username": "johnDoe",
+      "password": "password123",
+      "role": "ADMIN"
+    },
+    {
+      "id": "2bba",
+      "username": "johnDoe",
+      "password": "password123",
+      "role": "CUSTOMER"
+    },
+    {
+      "id": "ee8e",
+      "username": "johnDoe",
+      "password": "password123",
+      "role": "ADMIN"
+    },
+    {
+      "id": "f7c5",
+      "username": "johnDoe",
+      "password": "password123",
+      "role": "CUSTOMER"
+    },
+    {
+      "id": "75e6",
+      "username": "johnDoe",
+      "password": "password123",
+      "role": "ADMIN"
+    },
+    {
+      "id": "b195",
+      "username": "raji",
+      "password": "raji@123",
+      "role": "CUSTOMER"
+    },
+    {
+      "id": "470d",
+      "username": "johnDoe",
+      "password": "password123",
+      "role": "ADMIN"
+    },
+    {
+      "id": "6abc",
+      "username": "aditya",
+      "password": "adity@123",
+      "role": "CUSTOMER"
+    },
+    {
+      "id": "7f77",
+      "username": "johnDoe",
+      "password": "password123",
+      "role": "ADMIN"
+    },
+    {
+      "id": "4d51",
+      "username": "johnDoe",
+      "password": "password123",
+      "role": "ADMIN"
+    },
+    {
+      "id": "5a4f",
+      "username": "johnDoe",
+      "password": "password123",
+      "role": "ADMIN"
+    },
+    {
+      "id": "c14a",
+      "username": "Sivaya",
+      "password": "Siva@123",
+      "role": "ADMIN"
+    },
+    {
+      "id": "76c3",
+      "username": "johnDoe",
+      "password": "password123",
+      "role": "CUSTOMER"
+    },
+    {
+      "id": "3953",
+      "username": "Sivaya",
+      "password": "siva@123",
+      "role": "ADMIN"
+    },
+    {
+      "id": "6cd9",
+      "username": "Susmita",
+      "password": "Susmita@123",
+      "role": "CUSTOMER"
+    },
+    {
+      "id": "b2af",
+      "username": "johnDoe",
+      "password": "password123",
+      "role": "ADMIN"
+    },
+    {
+      "id": "a55b",
+      "username": "johnDoe",
+      "password": "password123",
+      "role": "CUSTOMER"
+    },
+    {
+      "id": "2758",
+      "username": "johnDoe",
+      "password": "password123",
+      "role": "CUSTOMER"
+    },
+    {
+      "id": "f6a0",
+      "username": "johnDoe",
+      "password": "password123",
+      "role": "ADMIN"
+    },
+    {
+      "id": "d418",
+      "username": "johnDoe",
+      "password": "password123",
+      "role": "CUSTOMER"
+    },
+    {
+      "id": "3a1b",
+      "username": "johnDoe",
+      "password": "password123",
+      "role": "ADMIN"
+    },
+    {
+      "id": "6aa5",
+      "username": "johnDoe",
+      "password": "password123",
+      "role": "ADMIN"
+    },
+    {
+      "id": "781a",
+      "username": "johnDoe",
+      "password": "password123",
+      "role": "ADMIN"
+    },
+    {
+      "id": "8d48",
+      "username": "johnDoe",
+      "password": "password123",
+      "role": "ADMIN"
+    },
+    {
+      "id": "ba96",
+      "username": "johnDoe",
+      "password": "password123",
+      "role": "ADMIN"
+    },
+    {
+      "id": "5e75",
+      "username": "johnDoe",
+      "password": "password123",
+      "role": "ADMIN"
+    },
+    {
+      "id": "e98e",
+      "username": "johnDoe",
+      "password": "password123",
+      "role": "ADMIN"
+    },
+    {
+      "id": "12fa",
+      "username": "johnDoe",
+      "password": "password123",
+      "role": "ADMIN"
+    },
+    {
+      "id": "06aa",
+      "username": "johnDoe",
+      "password": "password123",
+      "role": "ADMIN"
+    },
+    {
+      "id": "5521",
+      "username": "johnDoe",
+      "password": "password123",
+      "role": "ADMIN"
+    },
+    {
+      "id": "4f79",
+      "username": "johnDoe",
+      "password": "password123",
+      "role": "ADMIN"
+    },
+    {
+      "id": "1c5c",
+      "username": "johnDoe",
+      "password": "password123",
+      "role": "ADMIN"
+    },
+    {
+      "id": "aca3",
+      "username": "johnDoe",
+      "password": "pasword123",
+      "role": "ADMIN"
+    },
+    {
+      "id": "11c0",
+      "username": "johnDoe",
+      "password": "password123",
+      "role": "ADMIN"
+    },
+    {
+      "id": "b459",
+      "username": "johnDoe",
+      "password": "password123",
+      "role": "ADMIN"
+    },
+    {
+      "id": "f7d7",
+      "username": "johnDoe",
+      "password": "password123",
+      "role": "ADMIN"
+    },
+    {
+      "id": "2d48",
+      "username": "johnDoe",
+      "password": "password123",
+      "role": "ADMIN"
+    },
+    {
+      "id": "db58",
+      "username": "johnDoe",
+      "password": "password123",
+      "role": "CUSTOMER"
+    },
+    {
+      "id": "d721",
+      "username": "johnDoe",
+      "password": "passsword123",
+      "role": "ADMIN"
+    },
+    {
+      "id": "f181",
+      "username": "johnDoe",
+      "password": "password123",
+      "role": "ADMIN"
+    },
+    {
+      "id": "c0c1",
+      "username": "johnDoe",
+      "password": "password123",
+      "role": "ADMIN"
+    },
+    {
+      "id": "5404",
+      "username": "johnDoe",
+      "password": "password123",
+      "role": "ADMIN"
+    },
+    {
+      "id": "d234",
+      "username": "johnDoe",
+      "password": "password123",
+      "role": "ADMIN"
+    },
+    {
+      "id": "6234",
+      "username": "johnDoe",
+      "password": "password123",
+      "role": "CUSTOMER"
+    },
+    {
+      "id": "603c",
+      "username": "johnDoe",
+      "password": "password123",
+      "role": "ADMIN"
+    },
+    {
+      "id": "9eb8",
+      "username": "johnDoe",
+      "password": "password123",
+      "role": "ADMIN"
+    },
+    {
+      "id": "6d19",
+      "username": "johnDoe",
+      "password": "password123",
+      "role": "ADMIN"
+    },
+    {
+      "id": "259c",
+      "username": "johnDoe",
+      "password": "password123",
+      "role": "CUSTOMER"
+    },
+    {
+      "id": "7da4",
+      "username": "johnDoe",
+      "password": "password123",
+      "role": "ADMIN"
+    },
+    {
+      "id": "a852",
+      "username": "johnDoe",
+      "password": "password123",
+      "role": "CUSTOMER"
+    },
+    {
+      "id": "4243",
+      "username": "johnDoe",
+      "password": "password123",
+      "role": "ADMIN"
+    },
+    {
+      "id": "3008",
+      "username": "johnDoe",
+      "password": "password123",
+      "role": "CUSTOMER"
+    },
+    {
+      "id": "0f5c",
+      "username": "johnDoe",
+      "password": "password123",
+      "role": "CUSTOMER"
+    },
+    {
+      "id": "a8fb",
+      "username": "johnDoe",
+      "password": "password123",
+      "role": "ADMIN"
+    },
+    {
+      "id": "6edc",
+      "username": "johnDoe",
+      "password": "password123",
+      "role": "CUSTOMER"
+    },
+    {
+      "id": "608f",
+      "username": "johnDoe",
+      "password": "password123",
+      "role": "ADMIN"
+    },
+    {
+      "id": "dc0b",
+      "username": "johnDoe",
+      "password": "password123",
+      "role": "CUSTOMER"
+    },
+    {
+      "id": "7f5e",
+      "username": "johnDoe",
+      "password": "password123",
+      "role": "ADMIN"
+    },
+    {
+      "id": "811d",
+      "username": "Pavan@123",
+      "password": "password123",
+      "role": "ADMIN"
+    },
+    {
+      "id": "8294",
+      "username": "johnDoe",
+      "password": "password123",
+      "role": "CUSTOMER"
+    },
+    {
+      "id": "eb66",
+      "username": "johnDoe",
+      "password": "password123",
+      "role": "ADMIN"
+    },
+    {
+      "id": "b422",
+      "username": "johnDoe",
+      "password": "password123",
+      "role": "ADMIN"
+    },
+    {
+      "id": "8d0c",
+      "username": "johnDoe",
+      "password": "password123",
+      "role": "ADMIN"
+    },
+    {
+      "id": "c3f6",
+      "username": "johnDoe",
+      "password": "password123",
+      "role": "ADMIN"
+    },
+    {
+      "id": "d1b3",
+      "username": "johnDoe",
+      "password": "password123",
+      "role": "ADMIN"
+    },
+    {
+      "id": "2982",
+      "username": "johnDoe",
+      "password": "password123",
+      "role": "CUSTOMER"
+    },
+    {
+      "id": "46a4",
+      "username": "johnDoe",
+      "password": "password123",
+      "role": "ADMIN"
+    },
+    {
+      "id": "5ac7",
+      "username": "Mahesh",
+      "password": "mahesh@123",
+      "role": "CUSTOMER"
+    },
+    {
+      "id": "7b11",
+      "username": "johnDoe",
+      "password": "Password123",
+      "role": "ADMIN"
+    },
+    {
+      "id": "ccd7",
+      "username": "johnDoe",
+      "password": "password123",
+      "role": "CUSTOMER"
+    },
+    {
+      "id": "fbc3",
+      "username": "johnDoe",
+      "password": "password1123",
+      "role": "ADMIN"
+    }
+  ],
+  "registrations": [
+    {
+      "message": "Registration successful",
+      "id": "a14e"
+    },
+    {
+      "id": "a4a9",
+      "username": "Govinda",
+      "password": "govinda123",
+      "role": "ADMIN"
+    },
+    {
+      "id": "d285",
+      "username": "pavan",
+      "password": "pavan@1234",
+      "role": "CUSTOMER"
+    },
+    {
+      "id": "49a1",
+      "username": "johnDoe",
+      "password": "mahesh@123",
+      "role": "ADMIN"
+    },
+    {
+      "id": "90fa",
+      "username": "Sivaya",
+      "password": "mahesh@1234",
+      "role": "ADMIN"
+    },
+    {
+      "id": "0937",
+      "username": "neeraj",
+      "password": "neeraj@1234",
+      "role": "CUSTOMER"
+    },
+    {
+      "id": "948b",
+      "username": "Govinda",
+      "password": "govinda@123",
+      "role": "ADMIN"
+    },
+    {
+      "id": "e2a3",
+      "username": "pavan",
+      "password": "pavan@123",
+      "role": "CUSTOMER"
+    },
+    {
+      "id": "8522",
+      "username": "pavankumar",
+      "password": "pavan@1234",
+      "role": "CUSTOMER"
+    },
+    {
+      "id": "5fd8",
+      "username": "Narayana",
+      "password": "Narayana@123",
+      "role": "CUSTOMER"
+    },
+    {
+      "id": "78d0",
+      "username": "pavan",
+      "password": "pavan@123",
+      "role": "ADMIN"
+    },
+    {
+      "id": "7c22",
+      "username": "Aditya",
+      "password": "adity@123",
+      "role": "CUSTOMER"
+    },
+    {
+      "id": "e083",
+      "username": "raji",
+      "password": "raji@123",
+      "role": "CUSTOMER"
+    },
+    {
+      "id": "6c64",
+      "username": "aditya",
+      "password": "aditya@123",
+      "role": "CUSTOMER"
+    },
+    {
+      "id": "cd10",
+      "username": "Sivaya",
+      "password": "Siva@123",
+      "role": "ADMIN"
+    },
+    {
+      "id": "0d99",
+      "username": "MaheshKumar",
+      "password": "mahesh@123",
+      "role": "CUSTOMER"
+    },
+    {
+      "id": "7843",
+      "username": "MaheshKumar",
+      "password": "Mahesh@123",
+      "role": "ADMIN"
+    },
+    {
+      "id": "a00f",
+      "username": "Sivaya",
+      "password": "siva@1234",
+      "role": "ADMIN"
+    },
+    {
+      "id": "6157",
+      "username": "pavankumar",
+      "password": "pavan@123",
+      "role": "ADMIN"
+    },
+    {
+      "id": "d9b8",
+      "username": "Susmita",
+      "password": "Susmita@123",
+      "role": "CUSTOMER"
+    },
+    {
+      "id": "7cf2",
+      "username": "mahesh",
+      "password": "Mahesh@123",
+      "role": "CUSTOMER"
+    }
+  ]
+}

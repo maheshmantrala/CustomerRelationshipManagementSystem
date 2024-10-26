@@ -1,0 +1,115 @@
+.admin-dashboard-container {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #007bff;
+  color: white;
+  padding: 15px;
+  top: 2px;
+}
+
+.navbar .logo img {
+  height: 40px;
+}
+
+.navbar .welcome-message {
+  display: flex;
+  align-items: center;
+  font-size: 18px;
+}
+
+.navbar .welcome-message span {
+  margin-right: 10px;
+}
+
+.navbar .welcome-message i {
+  font-size: 24px;
+}
+
+.button-section {
+  display: flex;
+  justify-content: flex-end;
+  margin: 20px;
+  gap: 20px;
+}
+
+.button-section button {
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  background-color: #6c757d;
+  color: white;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.3s, transform 0.3s;
+}
+
+.button-section button:hover {
+  background-color: #5a6268;
+  transform: scale(1.05);
+}
+
+.data-section {
+  padding: 20px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  animation: fadeIn 1s ease-in-out;
+}
+
+table th, table td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+}
+
+table th {
+  background-color: #f4f4f4;
+}
+
+.table-row:hover {
+  background-color: #f1f1f1;
+  transition: background-color 0.3s;
+}
+
+.btn-delete {
+  padding: 5px 10px;
+  border: none;
+  border-radius: 5px;
+  background-color: #dc3545;
+  color: white;
+  cursor: pointer;
+  transition: background-color 0.3s, transform 0.3s;
+}
+
+.btn-delete:hover {
+  background-color: #c82333;
+  transform: scale(1.05);
+}
+
+footer {
+  margin-top: auto;
+  background-color: #333;
+  color: white;
+  text-align: center;
+  padding: 10px;
+  font-size: 14px;
+}
+
+/* Animation */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}

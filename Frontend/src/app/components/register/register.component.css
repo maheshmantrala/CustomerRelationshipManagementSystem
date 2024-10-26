@@ -1,0 +1,113 @@
+/* register.component.css */
+
+.register-container {
+  background: url('https://media.istockphoto.com/id/1413855189/photo/chat-bot-service-concept-virtual-assistant-and-crm-software-automation-technology-customer.jpg?s=612x612&w=0&k=20&c=5wY13TF0YQWF_Ktt0HU9CcjRE6h0wvBpxG78XSLU0-U=') no-repeat center center fixed;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  color: #fff;
+  text-align: center;
+  padding: 0 20px;
+  box-sizing: border-box;
+}
+
+/* Animated h2 with text shadow and border animation */
+h2 {
+  font-size: 2.5rem;
+  font-weight: bold;
+  margin-bottom: 10px;
+  color: #ff9900; /* Vibrant orange */
+  text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.7);
+  animation: slideIn 1.5s ease-in-out;
+}
+
+/* Inspirational quote styling */
+.quote {
+  font-size: 1.2rem;
+  margin-bottom: 30px;
+  color: #ff9900;
+  letter-spacing: 1px;
+  animation: fadeIn 2s ease-in-out, borderGlow 2s infinite alternate;
+  max-width: 600px;
+  padding: 10px 15px;
+  background-color: rgba(0, 0, 0, 0.6);
+  border-radius: 8px;
+  border: 2px solid rgba(255, 255, 255, 0.3);
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);
+}
+
+/* Form styling */
+form {
+  background-color: rgba(0, 0, 0, 0.85);
+  padding: 2rem;
+  border-radius: 15px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
+  animation: zoomIn 2s ease;
+  width: 100%;
+  max-width: 450px;
+  box-sizing: border-box;
+}
+
+/* Button styling */
+button {
+  width: 100%;
+  padding: 0.8rem;
+  border-radius: 5px;
+  font-size: 1rem;
+  font-weight: bold;
+  background-color: #007bff; /* Bootstrap primary blue */
+  color: #fff;
+  transition: background-color 0.3s ease;
+}
+
+/* Hover effect for button */
+button:hover {
+  background-color: #0056b3;
+}
+
+/* Keyframes for slideIn animation */
+@keyframes slideIn {
+  0% {
+    transform: translateY(-100px);
+    opacity: 0;
+  }
+  100% {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+
+/* Keyframes for zoomIn animation */
+@keyframes zoomIn {
+  0% {
+    transform: scale(0.8);
+    opacity: 0;
+  }
+  100% {
+    transform: scale(1);
+    opacity: 1;
+  }
+}
+
+/* Keyframes for fadeIn animation */
+@keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+/* Keyframes for borderGlow animation */
+@keyframes borderGlow {
+  0% {
+    border-color: rgba(255, 255, 255, 0.2);
+  }
+  100% {
+    border-color: rgba(255, 255, 255, 1);
+  }
+}

@@ -1,0 +1,82 @@
+<app-navbar></app-navbar>
+<div class="admin-dashboard-container">
+  <div class="navbar">
+    <div class="logo">
+      
+    </div>
+    <div class="welcome-message">
+      <span>Welcome, Mahesh</span>
+      <i class="fa fa-user-circle"></i>
+    </div>
+  </div>
+
+  <div class="button-section">
+    <button (click)="viewCustomers()">View Customers</button>
+    <button (click)="viewInteractions()">View Interactions</button>
+    <button (click)="viewCustomer1Interactions()">View customer Interactions</button>
+  </div>
+
+  <div *ngIf="activeView === 'customers'" class="data-section">
+    <h2>Customers</h2>
+    <table>
+      <thead>
+        <tr>
+          <th>ID</th>
+          <th>First Name</th>
+          <th>Last Name</th>
+          <th>Phone Number</th>
+          <th>Email</th>
+          <th>Actions</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr *ngFor="let customer of customers" class="table-row">
+          <td>{{ customer.id }}</td>
+          <td>{{ customer.firstname }}</td>
+          <td>{{ customer.lastname }}</td>
+          <td>{{ customer.phoneNumber }}</td>
+          <td>{{ customer.email }}</td>
+          <td>
+            <button (click)="deleteCustomer(customer.id)" class="btn-delete">Delete</button>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+
+  <div *ngIf="activeView === 'interactions'" class="data-section">
+    <h2>Interactions</h2>
+    <table>
+      <thead>
+        <tr>
+          <th>Interaction ID</th>
+          <th>Customer ID</th>
+          <th>Type</th>
+          <th>Details</th>
+          <th>Description</th>
+          <th>Interacted Date</th>
+          <th>Actions</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr *ngFor="let interaction of interactions" class="table-row">
+          <td>{{ interaction.id }}</td>
+          <td>{{ interaction.customerId }}</td>
+          <td>{{ interaction.type }}</td>
+          <td>{{ interaction.details }}</td>
+          <td>{{ interaction.description }}</td>
+          <td>{{ interaction.interactionDate }}</td>
+          <td>
+            <button (click)="deleteInteraction(interaction.id)" class="btn-delete">Delete</button>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+
+
+  <footer>
+    <p>&copy; 2024 Customer Relationship Management System.</p>
+  </footer>
+</div>
+

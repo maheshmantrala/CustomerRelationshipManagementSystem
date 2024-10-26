@@ -1,0 +1,37 @@
+.navbar {
+  background-color: #333;
+  padding: 10px 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.navbar-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between; /* Add this to space out the logo and logout button */
+  width: 100%;
+}
+
+.navbar-logo img {
+  height: 50px; /* Set the height of the logo */
+  width: auto; /* Automatically adjust width based on the image's aspect ratio */
+}
+
+.navbar-links {
+  margin-left: auto; /* This will push the button to the far right */
+}
+
+.navbar-links button {
+  background-color: #007bff;
+  color: white;
+  border: none;
+  padding: 10px 15px;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.navbar-links button:hover {
+  background-color: #0056b3;
+}

@@ -1,0 +1,13 @@
+<nav *ngIf="isLoggedIn" class="navbar">
+  <div class="navbar-container">
+    <!-- Add the logo image inside the anchor tag -->
+    <a routerLink="/dashboard" class="navbar-logo">
+      <img src="https://static.vecteezy.com/system/resources/previews/009/116/675/non_2x/crm-logo-crm-letter-crm-letter-logo-design-initials-crm-logo-linked-with-circle-and-uppercase-monogram-logo-crm-typography-for-technology-business-and-real-estate-brand-vector.jpg" alt="Company Logo" />
+    </a>
+    <div class="navbar-links">
+      <button (click)="logout()">Logout</button>
+    </div>
+  </div>
+</nav>
+
+  
